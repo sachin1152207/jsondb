@@ -1,0 +1,26 @@
+{
+    "<TABLE_NAME1>":{
+        "<TABLE_SCHEMA>":{
+            "OBJECT_ID":"INTERGER",
+            "SCHEMA_NAME":"SCHEMA_DTYPE", 
+            "SCHEMA_NAME1":"SCHEMA_DTYPE",
+            "SCHEMA_NAME2":"SCHEMA_DTYPE"
+        },
+        "<TABLE_ROW>":[
+            ["ROW1", "DATA1", "DATA2"],
+            ["ROW2", "DATA1", "DATA2"]
+        ]
+    },
+    "<TABLE_NAME2>":{
+        "<TABLE_SCHEMA>":{
+            "OBJECT_ID":"INTERGER",
+            "SCHEMA_NAME":"SCHEMA_DTYPE",
+            "SCHEMA_NAME1":"SCHEMA_DTYPE",
+            "SCHEMA_NAME2":"SCHEMA_DTYPE"
+        },
+        "<TABLE_ROW>":[
+            ["ROW1", "DATA1", "DATA2"],
+            ["ROW2", "DATA1", "DATA2"]
+        ]
+    }
+}

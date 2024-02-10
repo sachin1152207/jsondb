@@ -1,0 +1,15 @@
+{
+    "employee":{
+        "<TABLE_SCHEMA>":{
+            "OBJECT_ID":"INTEGER",
+            "name":"STRING",
+            "address":"STRING",
+            "salary":"FLOAT"
+        },
+        "<TABLE_ROW>":[
+            [1, "Sachin Shrivastav", "Gaur, 9", 1542.00],
+            [2, "Manejar Shah Kanu", "Kalaiya, 8", 1522.00],
+            [3, "Ravi Mahto", "Rajdevi, 2", 1982.00]
+        ]
+    }
+}

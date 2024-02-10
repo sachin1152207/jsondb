@@ -1,0 +1,46 @@
+{
+    "Employee": {
+        "<TABLE_SCHEMA>": {
+            "OBJECT_ID": "INTEGER",
+            "name": "STRING",
+            "email": "STRING",
+            "address": "STRING",
+            "username": "STRING",
+            "password": "STRING",
+            "phoneNumber": "INTEGER",
+            "salary": "FLOAT"
+        },
+        "<TABLE_ROW>": [
+            [
+                2,
+                "John Doe",
+                "johndoe@gmail.com",
+                "123 Main St",
+                "john123",
+                "John@456",
+                1234567890,
+                2500.0
+            ],
+            [
+                3,
+                "Jane Smith",
+                "janesmith@gmail.com",
+                "456 Oak Ave",
+                "jane456",
+                "Jane@789",
+                9876543210,
+                3000.0
+            ],
+            [
+                1,
+                "New Name",
+                "newEmail@gmail.com",
+                "Gaur 9",
+                "new username",
+                "Sachin@9845",
+                9845123456,
+                1542.0
+            ]
+        ]
+    }
+}
